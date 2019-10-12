@@ -11,10 +11,10 @@ Aproveite!
 ```rspec --tag @nomeDoCenario```
 
 - Para criar um Array de Simbolos:
-``` teclas = %i[tab escape enter shift control alt]````
+``` teclas = %i[tab escape enter shift control alt]```
 
 - Para criar um Array de Strings:
-``` teclas = %w[a s d f g h j k l]````
+``` teclas = %w[a s d f g h j k l]```
 
 
 ### Podemos melhorar o seletor CSS na busca de elementos
