@@ -10,6 +10,9 @@ Aproveite!
 - Para rodar um cenario especifico use o comando: 
 ```rspec --tag @nomeDoCenario```
 
+- Para rodar um arquivo especifico 
+```rspec spec\nomeDoArquivo.rb``` 
+
 - Para criar um Array de Simbolos:
 ``` teclas = %i[tab escape enter shift control alt]```
 
